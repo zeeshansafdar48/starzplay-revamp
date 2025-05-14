@@ -1,11 +1,7 @@
 import BitmovinPlayer from "./BitmovinPlayer";
 
 function App() {
-  return (
-    <div className="App">
-      <BitmovinPlayer />
-    </div>
-  );
+  return <BitmovinPlayer />;
 }
 
 export default App;
